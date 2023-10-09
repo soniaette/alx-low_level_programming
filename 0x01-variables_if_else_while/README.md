@@ -7,3 +7,4 @@ Task 4 - A program that prints the alphabet in lowercase,except e and q, followe
 Task 5 - A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 Task 6 - A program that prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar without char variables.
 Task 7 - Printing lowercase alphabet in reverse
+Task 8 - This code prints all the numbers of base 16 in lowercase, followed by a new line.

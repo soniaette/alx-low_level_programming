@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 Hello World in C.
 
 0-preprocessor - A script that runs a C file through the preprocessor and save the result into another file
 
 1-compiler - A script that compiles a C file but does not link.
 
+=======
+Hello World in C
+
+ 0-preprocessor - A script that runs a C file through the preprocessor and save the result into another file
+ 
+ 1-compiler - A script that compiles a C file but does not link.
+   
+>>>>>>> 0062c22d4303fa90d1f6c400795d8452e3cae2ca
 2-assembler - A script that generates the assembly code of a C code and save it in an output file.
 
 3-name - A script that compiles a C file and creates an executable named cisfun.
@@ -14,6 +23,10 @@ Hello World in C.
 
 6-size.c - A C program that prints the size of various types on the computer it is compiled and run on.
 
+<<<<<<< HEAD
 100-intel - A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+=======
+100-intel - A  script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+>>>>>>> 0062c22d4303fa90d1f6c400795d8452e3cae2ca
 
 101-quote.c - A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.

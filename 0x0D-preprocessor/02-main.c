@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /*
  * This prints the name of the file that the program was compiled from.

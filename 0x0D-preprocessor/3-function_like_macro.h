@@ -2,7 +2,7 @@
 #define FUNCTION_LIKE_MACRO_H
 
 /*
- * A header file that defines a function-like macro ABS(x)
+ * main - A header file that defines a function-like macro ABS(x)
  * that computes the absolute value of a number x.
  */
 

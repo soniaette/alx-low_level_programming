@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
- * This prints the name of the file that the program was compiled from.
+ * main - This prints the name of the file that the program was compiled from.
  *
  * Return: 0
  */

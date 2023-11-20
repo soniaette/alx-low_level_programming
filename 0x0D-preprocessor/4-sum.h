@@ -2,7 +2,7 @@
 #define SUM_H
 
 /*
- * A header file that defines a function-like macro SUM(x, y)
+ * main - A header file that defines a function-like macro SUM(x, y)
  * that computes the sum of the numbers x and y.
  */
 
